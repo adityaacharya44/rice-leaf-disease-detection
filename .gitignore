@@ -1,0 +1,9 @@
+# Python & Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+venv/
+env/
+
+# Large datasets (upload these separately if needed)
+dataset/
