@@ -2,6 +2,9 @@
 
 A computer vision project that classifies rice leaf diseases into three distinct categories—**Bacterial leaf blight**, **Brown spot**, and **Leaf smut**—using Transfer Learning with **MobileNetV2**.
 
+https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1001-RiceLeaf.zip
+("Download the dataset from above link and extract it into the root directory as dataset/")
+
 ---
 
 ## 📋 Overview
